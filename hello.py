@@ -1,0 +1,1 @@
+print("Hello! I don start learning ethical hacking 😎")
